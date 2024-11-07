@@ -38,3 +38,12 @@ The AutoEncoder learns to map the input image to a compressed representation in 
 The model will reconstruct the input images after training. You should expect the reconstructed images to look similar to the original images, albeit with some loss of detail due to compression.
 
 Example outputs:
+
+#### Example of 7
+![Output 1](images/output.png)
+
+#### Example of 2
+![Output 2](images/output2.png)
+
+#### Example of 0
+![Output 3](images/output3.png)
